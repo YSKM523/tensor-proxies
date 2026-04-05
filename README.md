@@ -53,13 +53,19 @@ The service currently offers:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <a href="https://tensorproxies.com/">
         <img src="./assets/homepage.png" alt="Tensor Proxies homepage preview" width="100%" />
       </a>
       <p><strong>Homepage</strong><br/>Landing page, plans, and product positioning.</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
+      <a href="https://tensorproxies.com/proxy-plans">
+        <img src="./assets/proxy-plans-page.png" alt="Tensor Proxies plans preview" width="100%" />
+      </a>
+      <p><strong>Plans</strong><br/>Package selection flow with pricing and product breakdown.</p>
+    </td>
+    <td width="33.33%" valign="top">
       <a href="https://tensorproxies.com/testimonials">
         <img src="./assets/testimonials-page.png" alt="Tensor Proxies testimonials preview" width="100%" />
       </a>
@@ -101,21 +107,6 @@ Pricing above reflects the public website as of April 5, 2026.
 - A narrow, easy-to-understand lineup instead of dozens of confusing proxy SKUs
 - Strong trust framing through public company details, operating history, and testimonials
 - Live purchase flow, not just a brochure site
-
-## Visuals
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/operators.png" alt="Tensor Proxies operations" width="100%" />
-      <p><strong>Operations Team</strong><br/>Hands-on infrastructure and fulfillment support.</p>
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/about-office.jpg" alt="Tensor Proxies office and brand visual" width="100%" />
-      <p><strong>Brand and Trust</strong><br/>Public-facing company positioning and U.S. business presence.</p>
-    </td>
-  </tr>
-</table>
 
 ## Trust Signals
 
