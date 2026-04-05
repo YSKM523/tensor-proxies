@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.jpg" alt="Tensor Proxies banner" width="100%" />
-</p>
-
 <h1 align="center">Tensor Proxies</h1>
 
 <p align="center">
@@ -23,8 +19,21 @@
 <p align="center">
   <strong>Live product</strong> |
   <strong>Codebase private</strong> |
-  <strong>Public-facing product overview</strong>
+  <strong>U.S.-based operations</strong>
 </p>
+
+## At a Glance
+
+| Signal | Detail |
+| --- | --- |
+| Company | Tensor Proxies LLC |
+| Started | Private sales since `January 2022` |
+| Public launch | `March 2026` |
+| Starting price | `From $8 / 25 proxies` |
+| Products | Datacenter, Static Residential ISP, Rotating Residential ISP |
+| Coverage | US, EU, APAC |
+| Protocols | HTTP and SOCKS |
+| Bandwidth | Unlimited |
 
 ## Product Snapshot
 
@@ -48,6 +57,15 @@ The service currently offers:
   </a>
 </p>
 
+## Built For
+
+- Price monitoring and market intelligence
+- Web scraping and structured data collection
+- QA and geo testing
+- Ad verification
+- Account management workflows
+- Supplier, portal, and regional access checks
+
 ## Product Lineup
 
 | Product | Starting Price | Best For | Highlights |
@@ -65,6 +83,13 @@ Pricing above reflects the public website as of April 5, 2026.
 - Direct team access instead of anonymous ticket-queue support
 - Private-sale operating history before public launch
 - Cleaner product positioning than generic reseller panels
+
+## What Stands Out
+
+- Productized pricing instead of vague custom quotes
+- A narrow, easy-to-understand lineup instead of dozens of confusing proxy SKUs
+- Strong trust framing through public company details, operating history, and testimonials
+- Live purchase flow, not just a brochure site
 
 ## Visuals
 
@@ -92,15 +117,6 @@ Pricing above reflects the public website as of April 5, 2026.
 
 These are all public claims or materials presented on the Tensor Proxies website.
 
-## Common Use Cases
-
-- Market and pricing intelligence
-- Web scraping and structured data collection
-- QA and geo testing
-- Ad verification
-- Account management workflows
-- Supplier, portal, and regional access checks
-
 ## What This Repository Is
 
 This repository is a public product overview for Tensor Proxies.
@@ -115,6 +131,12 @@ It exists to document the product, its positioning, and its public-facing materi
 - It is not a public infrastructure repo
 
 The live platform and supporting systems are private by design.
+
+## Interested In The Product?
+
+- Website: [tensorproxies.com](https://tensorproxies.com/)
+- Plans: [tensorproxies.com/proxy-plans](https://tensorproxies.com/proxy-plans)
+- Contact: [tensorproxies.com/contact-us](https://tensorproxies.com/contact-us)
 
 ## Links
 
