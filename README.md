@@ -49,28 +49,49 @@ The service currently offers:
 - Unlimited traffic and bandwidth
 - Delivery in `IP:PORT:USERNAME:PASSWORD` format
 
-## Live Preview
+## Website Preview
 
 <p>
   <a href="https://tensorproxies.com/">
-    <img src="./assets/homepage-wide.png" alt="Tensor Proxies homepage preview" width="100%" />
+    <img src="./assets/homepage-showcase.png" alt="Tensor Proxies homepage with datacenter proxies, static residential ISP proxies, and rotating proxies" width="100%" />
   </a>
 </p>
-<p><strong>Homepage</strong><br/>Landing page, product framing, and main value proposition.</p>
+<p><strong>Homepage</strong><br/>Main landing page covering premium datacenter proxies, static residential ISP proxies, rotating proxy inventory, pricing, and core value proposition.</p>
 
 <p>
   <a href="https://tensorproxies.com/proxy-plans">
-    <img src="./assets/proxy-plans-wide.png" alt="Tensor Proxies plans preview" width="100%" />
+    <img src="./assets/proxy-plans-showcase.png" alt="Tensor Proxies proxy plans page with datacenter, residential ISP, and rotating packages" width="100%" />
   </a>
 </p>
-<p><strong>Plans</strong><br/>Package selection flow with clear pricing, quantity flow, and package comparison.</p>
+<p><strong>Proxy Plans</strong><br/>Package selection flow with clear pricing, country and region logic, and side-by-side product breakdown for datacenter proxies, static ISP proxies, and rotating residential proxies.</p>
 
 <p>
   <a href="https://tensorproxies.com/testimonials">
-    <img src="./assets/testimonials-wide.png" alt="Tensor Proxies testimonials preview" width="100%" />
+    <img src="./assets/testimonials-showcase.png" alt="Tensor Proxies testimonials page with reviews for datacenter and residential proxy products" width="100%" />
   </a>
 </p>
-<p><strong>Testimonials</strong><br/>Social proof, public buyer feedback, and package-specific review context.</p>
+<p><strong>Testimonials</strong><br/>Public buyer feedback covering price monitoring, ad verification, scraping, sneaker bots, social media workflows, and other real-world proxy use cases.</p>
+
+<p>
+  <a href="https://tensorproxies.com/use-cases">
+    <img src="./assets/use-cases-showcase.png" alt="Tensor Proxies use cases page for scraping, sneaker bots, SEO, and social media management" width="100%" />
+  </a>
+</p>
+<p><strong>Use Cases</strong><br/>SEO-friendly use-case pages targeting web scraping, sneaker bots, SERP monitoring, social media management, and other operator-focused proxy workflows.</p>
+
+<p>
+  <a href="https://tensorproxies.com/blog">
+    <img src="./assets/blog-showcase.png" alt="Tensor Proxies blog with guides comparing datacenter proxies, residential proxies, HTTP, and SOCKS5" width="100%" />
+  </a>
+</p>
+<p><strong>Blog</strong><br/>Educational content covering datacenter vs residential proxies, static vs rotating proxies, HTTP vs SOCKS5, scraping setup, and anti-ban guidance.</p>
+
+<p>
+  <a href="https://tensorproxies.com/auth/signin?callbackUrl=/dashboard">
+    <img src="./assets/signin-showcase.png" alt="Tensor Proxies sign in page for dashboard and customer account access" width="100%" />
+  </a>
+</p>
+<p><strong>Customer Access</strong><br/>Dedicated sign-in flow for returning customers and dashboard access.</p>
 
 ## Built For
 
@@ -106,6 +127,22 @@ Pricing above reflects the public website as of April 5, 2026.
 - Strong trust framing through public company details, operating history, and testimonials
 - Live purchase flow, not just a brochure site
 
+## Content Strategy And Search Coverage
+
+The public site structure supports search-friendly discovery across several important proxy keywords and buying intents:
+
+- datacenter proxies
+- static residential ISP proxies
+- rotating residential proxies
+- proxy plans and proxy pricing
+- web scraping proxies
+- sneaker bot proxies
+- SERP tracking proxies
+- social media management proxies
+- HTTP proxies and SOCKS5 proxies
+
+The combination of a product landing page, plans page, testimonials, use-case pages, and educational blog content gives Tensor Proxies a stronger search footprint than a single sales page alone.
+
 ## Trust Signals
 
 - Private sales began in `January 2022`
@@ -136,6 +173,8 @@ The live platform and supporting systems are private by design.
 
 - Website: [tensorproxies.com](https://tensorproxies.com/)
 - Plans: [tensorproxies.com/proxy-plans](https://tensorproxies.com/proxy-plans)
+- Use cases: [tensorproxies.com/use-cases](https://tensorproxies.com/use-cases)
+- Blog: [tensorproxies.com/blog](https://tensorproxies.com/blog)
 - Contact: [tensorproxies.com/contact-us](https://tensorproxies.com/contact-us)
 
 ## Links
@@ -144,5 +183,7 @@ The live platform and supporting systems are private by design.
 - Proxy plans: [tensorproxies.com/proxy-plans](https://tensorproxies.com/proxy-plans)
 - About: [tensorproxies.com/about](https://tensorproxies.com/about)
 - Testimonials: [tensorproxies.com/testimonials](https://tensorproxies.com/testimonials)
+- Use cases: [tensorproxies.com/use-cases](https://tensorproxies.com/use-cases)
+- Blog: [tensorproxies.com/blog](https://tensorproxies.com/blog)
 - Privacy policy: [tensorproxies.com/privacy-policy](https://tensorproxies.com/privacy-policy)
 - Contact: [tensorproxies.com/contact-us](https://tensorproxies.com/contact-us)
