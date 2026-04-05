@@ -51,28 +51,26 @@ The service currently offers:
 
 ## Live Preview
 
-<table>
-  <tr>
-    <td width="33.33%" valign="top">
-      <a href="https://tensorproxies.com/">
-        <img src="./assets/homepage.png" alt="Tensor Proxies homepage preview" width="100%" />
-      </a>
-      <p><strong>Homepage</strong><br/>Landing page, plans, and product positioning.</p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://tensorproxies.com/proxy-plans">
-        <img src="./assets/proxy-plans-page.png" alt="Tensor Proxies plans preview" width="100%" />
-      </a>
-      <p><strong>Plans</strong><br/>Package selection flow with pricing and product breakdown.</p>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://tensorproxies.com/testimonials">
-        <img src="./assets/testimonials-page.png" alt="Tensor Proxies testimonials preview" width="100%" />
-      </a>
-      <p><strong>Testimonials</strong><br/>Public customer feedback and package-specific proof points.</p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://tensorproxies.com/">
+    <img src="./assets/homepage-wide.png" alt="Tensor Proxies homepage preview" width="100%" />
+  </a>
+</p>
+<p><strong>Homepage</strong><br/>Landing page, product framing, and main value proposition.</p>
+
+<p>
+  <a href="https://tensorproxies.com/proxy-plans">
+    <img src="./assets/proxy-plans-wide.png" alt="Tensor Proxies plans preview" width="100%" />
+  </a>
+</p>
+<p><strong>Plans</strong><br/>Package selection flow with clear pricing, quantity flow, and package comparison.</p>
+
+<p>
+  <a href="https://tensorproxies.com/testimonials">
+    <img src="./assets/testimonials-wide.png" alt="Tensor Proxies testimonials preview" width="100%" />
+  </a>
+</p>
+<p><strong>Testimonials</strong><br/>Social proof, public buyer feedback, and package-specific review context.</p>
 
 ## Built For
 
