@@ -1,51 +1,85 @@
-# Tensor Proxies
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Tensor Proxies banner" width="100%" />
+</p>
 
-Premium proxy infrastructure for teams that need clear pricing, fast fulfillment, and cleaner day-to-day operations.
+<h1 align="center">Tensor Proxies</h1>
 
-[Website](https://tensorproxies.com/) | [Proxy Plans](https://tensorproxies.com/proxy-plans) | [About](https://tensorproxies.com/about) | [Testimonials](https://tensorproxies.com/testimonials) | [Contact](https://tensorproxies.com/contact-us)
+<p align="center">
+  Premium datacenter, static residential ISP, and rotating residential proxy infrastructure.
+</p>
 
-## Overview
+<p align="center">
+  Built for teams that want clear pricing, fast fulfillment, and cleaner day-to-day operations.
+</p>
+
+<p align="center">
+  <a href="https://tensorproxies.com/">Website</a> |
+  <a href="https://tensorproxies.com/proxy-plans">Proxy Plans</a> |
+  <a href="https://tensorproxies.com/about">About</a> |
+  <a href="https://tensorproxies.com/testimonials">Testimonials</a> |
+  <a href="https://tensorproxies.com/contact-us">Contact</a>
+</p>
+
+<p align="center">
+  <strong>Live product</strong> |
+  <strong>Codebase private</strong> |
+  <strong>Public-facing product overview</strong>
+</p>
+
+## Product Snapshot
 
 Tensor Proxies is a live proxy product focused on simplicity, speed, and operational reliability.
-The lineup is built for buyers who want working proxies, predictable pricing, and direct fulfillment without extra friction.
+It is designed for buyers who want working proxies, predictable package pricing, and a direct purchase flow without unnecessary friction.
 
-The service currently offers three core products:
+The service currently offers:
 
 - Datacenter proxies
 - Static residential ISP proxies
 - Rotating residential ISP proxies
+- HTTP and SOCKS support across the lineup
+- Unlimited traffic and bandwidth
+- Delivery in `IP:PORT:USERNAME:PASSWORD` format
 
-All packages support HTTP and SOCKS, include unlimited bandwidth, and are delivered in `IP:PORT:USERNAME:PASSWORD` format.
+## Live Preview
+
+<p align="center">
+  <a href="https://tensorproxies.com/">
+    <img src="./assets/homepage.png" alt="Tensor Proxies homepage preview" width="100%" />
+  </a>
+</p>
 
 ## Product Lineup
 
-### Datacenter Proxies
+| Product | Starting Price | Best For | Highlights |
+| --- | --- | --- | --- |
+| Datacenter Proxies | `$8 / 25 proxies` | Price monitoring, QA, geo checks, ad verification, general scraping | Low starting cost, unlimited bandwidth, HTTP and SOCKS support |
+| Static Residential ISP Proxies | `$15 / 25 proxies` | Sticky sessions, account workflows, residential-looking traffic, stable identity | Static residential ISP sessions, unlimited bandwidth, 1M+ residential IPs |
+| Rotating Residential ISP Proxies | `$25 / 25 proxies` | Larger-scale collection, rotating identity, multi-region traffic, dynamic workflows | Automatic rotation, unlimited bandwidth, large residential pool |
 
-- Starting price: `$8 / 25 proxies`
-- Best for: price monitoring, QA, geo checks, ad verification, and general scraping
-- Highlights: low starting cost, unlimited bandwidth, HTTP and SOCKS support
+Pricing above reflects the public website as of April 5, 2026.
 
-### Static Residential ISP Proxies
+## Why Buyers Use Tensor Proxies
 
-- Starting price: `$15 / 25 proxies`
-- Best for: sticky sessions, account workflows, residential-looking traffic, and stable identity
-- Highlights: static residential ISP sessions, unlimited bandwidth, over 1M residential IPs
+- Clear package-based pricing instead of metered bandwidth confusion
+- Multi-region inventory for US, EU, and APAC-heavy demand
+- Direct team access instead of anonymous ticket-queue support
+- Private-sale operating history before public launch
+- Cleaner product positioning than generic reseller panels
 
-### Rotating Residential ISP Proxies
+## Visuals
 
-- Starting price: `$25 / 25 proxies`
-- Best for: larger-scale collection, rotating identity, multi-region traffic, and dynamic workflows
-- Highlights: automatic rotation, unlimited bandwidth, large residential pool
-
-Pricing and package details above are based on the public website as of April 5, 2026.
-
-## Why Tensor Proxies
-
-- Clear package-based pricing instead of confusing metered plans
-- Multi-region inventory positioned for US, EU, and APAC-heavy demand
-- Unlimited traffic and bandwidth across the lineup
-- Direct support from the same team operating the infrastructure
-- Manual fulfillment model designed for lower friction after payment
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./assets/operators.png" alt="Tensor Proxies operations" width="100%" />
+      <p><strong>Operations Team</strong><br/>Hands-on infrastructure and fulfillment support.</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./assets/about-office.jpg" alt="Tensor Proxies office and brand visual" width="100%" />
+      <p><strong>Brand and Trust</strong><br/>Public-facing company positioning and U.S. business presence.</p>
+    </td>
+  </tr>
+</table>
 
 ## Trust Signals
 
@@ -54,12 +88,11 @@ Pricing and package details above are based on the public website as of April 5,
 - More than `4 years` of private-sale operating history before public launch
 - Based in `Ashburn, Virginia`
 - Public business address shown on the website
+- Testimonials page with public customer feedback
 
-These details are presented publicly on the Tensor Proxies website and About page.
+These are all public claims or materials presented on the Tensor Proxies website.
 
-## Use Cases
-
-Tensor Proxies is designed for teams and operators working in areas such as:
+## Common Use Cases
 
 - Market and pricing intelligence
 - Web scraping and structured data collection
@@ -68,26 +101,20 @@ Tensor Proxies is designed for teams and operators working in areas such as:
 - Account management workflows
 - Supplier, portal, and regional access checks
 
-## Customer Feedback
+## What This Repository Is
 
-Public testimonials on the site point to a few repeated themes:
+This repository is a public product overview for Tensor Proxies.
 
-- strong price-to-quality ratio on the datacenter product
-- cleaner identity and more stable sessions on the ISP product
-- reliable IP rotation and scale support on the rotating product
-- responsive manual support when replacements or delivery help are needed
+It exists to document the product, its positioning, and its public-facing materials without exposing internal infrastructure, fulfillment logic, or commercial implementation details.
 
-You can read the full public feedback here:
-[Testimonials](https://tensorproxies.com/testimonials)
+## What This Repository Is Not
 
-## Public Repository Policy
+- It is not the production codebase
+- It is not the proxy management backend
+- It is not the internal operations toolchain
+- It is not a public infrastructure repo
 
-This repository is a public product overview, not the production codebase.
-
-The live Tensor Proxies platform, internal tooling, fulfillment flow, and infrastructure code are private.
-That is intentional.
-
-This repository exists to document the product publicly without exposing operational or commercial internals.
+The live platform and supporting systems are private by design.
 
 ## Links
 
@@ -97,9 +124,3 @@ This repository exists to document the product publicly without exposing operati
 - Testimonials: [tensorproxies.com/testimonials](https://tensorproxies.com/testimonials)
 - Privacy policy: [tensorproxies.com/privacy-policy](https://tensorproxies.com/privacy-policy)
 - Contact: [tensorproxies.com/contact-us](https://tensorproxies.com/contact-us)
-
-## Status
-
-`Live product`
-
-If you want package details, purchasing help, or support before ordering, use the contact options on the website.
