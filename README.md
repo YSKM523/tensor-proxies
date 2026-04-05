@@ -51,11 +51,22 @@ The service currently offers:
 
 ## Live Preview
 
-<p align="center">
-  <a href="https://tensorproxies.com/">
-    <img src="./assets/homepage.png" alt="Tensor Proxies homepage preview" width="100%" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://tensorproxies.com/">
+        <img src="./assets/homepage.png" alt="Tensor Proxies homepage preview" width="100%" />
+      </a>
+      <p><strong>Homepage</strong><br/>Landing page, plans, and product positioning.</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://tensorproxies.com/testimonials">
+        <img src="./assets/testimonials-page.png" alt="Tensor Proxies testimonials preview" width="100%" />
+      </a>
+      <p><strong>Testimonials</strong><br/>Public customer feedback and package-specific proof points.</p>
+    </td>
+  </tr>
+</table>
 
 ## Built For
 
