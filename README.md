@@ -35,6 +35,18 @@
 | Protocols | HTTP and SOCKS |
 | Bandwidth | Unlimited |
 
+## Repository Model
+
+Tensor Proxies now uses a clearer two-repository split:
+
+| Repository | Visibility | Purpose |
+| --- | --- | --- |
+| [`YSKM523/tensor-proxies`](https://github.com/YSKM523/tensor-proxies) | Public | Product overview, screenshots, positioning, public-facing materials |
+| `YSKM523/tensorproxies-source` | Private | Website source, deployment assets, scripts, and implementation details |
+
+The public repository is meant for buyers, collaborators, and visitors who want to understand the product.
+The private repository is where the website source and deployment-side implementation live.
+
 ## Product Snapshot
 
 Tensor Proxies is a live proxy product focused on simplicity, speed, and operational reliability.
@@ -160,6 +172,11 @@ This repository is a public product overview for Tensor Proxies.
 
 It exists to document the product, its positioning, and its public-facing materials without exposing internal infrastructure, fulfillment logic, or commercial implementation details.
 
+In other words:
+
+- this repo is the public-facing product and brand layer
+- the private source repo holds the website code and deployment assets
+
 ## What This Repository Is Not
 
 - It is not the production codebase
@@ -168,6 +185,7 @@ It exists to document the product, its positioning, and its public-facing materi
 - It is not a public infrastructure repo
 
 The live platform and supporting systems are private by design.
+The paired private source repository is `YSKM523/tensorproxies-source`.
 
 ## Interested In The Product?
 
@@ -180,6 +198,8 @@ The live platform and supporting systems are private by design.
 ## Links
 
 - Main site: [tensorproxies.com](https://tensorproxies.com/)
+- Public overview repo: [YSKM523/tensor-proxies](https://github.com/YSKM523/tensor-proxies)
+- Private source repo: `YSKM523/tensorproxies-source`
 - Proxy plans: [tensorproxies.com/proxy-plans](https://tensorproxies.com/proxy-plans)
 - About: [tensorproxies.com/about](https://tensorproxies.com/about)
 - Testimonials: [tensorproxies.com/testimonials](https://tensorproxies.com/testimonials)
